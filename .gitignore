@@ -1,0 +1,12 @@
+# Python Testflows
+__testflows__
+__report__
+__images__
+__data__
+__logs__
+__attachments__
+
+test_dir
+venv
+geckodriver.log
+.idea
